@@ -1,0 +1,23 @@
+{
+  "name": "objctfy",
+  "version": "1.0.0",
+  "description": "make array of arrays an array of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stripedpajamas/objctfy.git"
+  },
+  "keywords": [
+    "arrays",
+    "objects"
+  ],
+  "author": "Peter Squicciarini <stripedpajamas273@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stripedpajamas/objctfy/issues"
+  },
+  "homepage": "https://github.com/stripedpajamas/objctfy#readme"
+}
